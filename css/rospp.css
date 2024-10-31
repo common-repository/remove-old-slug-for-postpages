@@ -1,0 +1,30 @@
+.form-field input, .form-field input[type="number"]{
+padding:15px;
+}	
+.remove_slugs_page_remove_slugs_form .error p {
+    color: #ff0000;
+    font-size: 15px;
+    padding: 0px 10px;
+    display: block;
+}
+label.error {
+    display: block;
+    color: #ff0000;
+}
+input.error, textarea.error {
+    border: 2px solid #ff0000;
+}
+
+#remove_slugs-table .tablenav-pages.no-pages {
+    display: block;
+}
+
+
+.remove_slug_heading { background: navy;
+    width: 166px;
+    padding: 15px;
+    color: #fff;
+}
+.remove_slug_heading:after{
+		content:">>";
+}
